@@ -1,8 +1,6 @@
 export default function Card({ammount,title,percent}){
     return(
         <>
-        
-
             <div className="col-md-4">
                 <div className="card-main">
                     <small className="text-muted">{title}</small>
